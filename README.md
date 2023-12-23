@@ -4,7 +4,7 @@
     <span> Felipe Bueno de Andrade</span>
 </h1>
 
-I have worked in media as a journalist for a decade, experienced in video, image, text, and web tools, which led me to a carrer transition and a Systems Analysis and Dev degree. In tech, I'm starting with Web and Front End Dev, but aiming the Gaming Industry.
+I have worked in media as a journalist for a decade, experienced in video, image, text, and web tools, which led me to a career transition and a Systems Analysis and Dev degree. In tech, I'm starting with Web and Front End Dev, but aiming the Gaming Industry.
 
 ---
 
