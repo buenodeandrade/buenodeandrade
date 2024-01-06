@@ -1,10 +1,12 @@
-<h1>
+<div align="center" dir="auto">
     <a href="https://www.linkedin.com/in/felipebuenodeandrade/">
-     <img align="center" width="40px" src="https://media.licdn.com/dms/image/D4D03AQFDqn479h82kQ/profile-displayphoto-shrink_200_200/0/1670038267645?e=1707350400&v=beta&t=fNY869mrp5VvErTk6aHkCI8Gm6hqLdOC7U2qSLow04s"></a>
-    <span> Felipe Bueno de Andrade</span>
-</h1>
+        <h1>Felipe Bueno de Andrade</h1>
+        <img align="center" width="320em" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif">
+    </a>
+<div>
+<br>
 
-I have worked in media as a journalist for a decade, experienced in video, image, text, and web tools, which led me to a career transition and a Systems Analysis and Dev degree. In tech, I'm starting with Web and Front End Dev, but aiming the Gaming Industry.
+I have worked in media as a journalist for a decade, with experience in video, image, text, and web tools, which led me to a career transition and a Systems Analysis and Dev degree. In tech, I'm looking forward to experiences in different areas, but aiming at the Gaming Industry.
 
 ---
 
