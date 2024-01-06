@@ -71,10 +71,10 @@ I have worked in media as a journalist for a decade, with experience in video, i
 
 ### Design tools
 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-020114?style=for-the-badge&logo=adobe%20illustrator&logoColor=%23FF9A00.svg)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-020114?style=for-the-badge&logo=adobe%20photoshop&logoColor=%2331A8FF.svg)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-020114?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF.svg)
+![Canva](https://img.shields.io/badge/Canva-020114?style=for-the-badge&logo=Canva&logoColor=%2300C4CC.svg)
 
 </div>
 
