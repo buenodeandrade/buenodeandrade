@@ -33,8 +33,23 @@ I have worked in media as a journalist for a decade, with experience in video, i
     
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buenodeandrade&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buenodeandrade&theme=midnight-purple)
+<!--/* <div align="left" dir="auto">
+	<a href="https://github.com/buenodeandrade/github-readme-stats">
+		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=buenodeandrade&amp;hide_title=true&amp;show_icons=true&amp;include_all_commits=false&amp;count_private=true&amp;line_height=25&amp;hide=issues&amp;bg_color=020114&amp;title_color=7520FF&amp;text_color=FFF&amp;border_radius=3&amp;border_color=181832&amp;icon_color=7520FF&amp;theme=midnight-purple" style="max-width: 100%;">
+	</a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=buenodeandrade&theme=midnight-purple">
+        <img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=buenodeandrade&amp;line_height=10&amp;card_width=290&amp;layout=compact&amp;hide_title=false&amp;count_private=true&amp;langs_count=4&amp;show_icons=true&amp;title_color=7520FF&amp;hide=html,css&amp;bg_color=020114&amp;text_color=8B8B8B&amp;border_radius=3&amp;border_color=181832&amp;theme=midnight-purple" style="max-width: 100%;"></a>
+	
+</div>-->
+
+<div align="center" dir="auto">
+	<a href="https://github.com/buenodeandrade/github-readme-stats">
+		<img height="130em" src="https://github-readme-stats.vercel.app/api?username=buenodeandrade&theme=midnight-purple" style="max-width: 100%;">
+	</a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=buenodeandrade&theme=midnight-purple">
+        <img alt="Top Langs" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenodeandrade&theme=midnight-purple" style="max-width: 100%;"></a>
+	
+</div>
 
 ### Languages
 <a href="https://github.com/buenodeandrade/lang-badges">
