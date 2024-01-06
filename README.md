@@ -4,7 +4,7 @@
         <img align="center" width="320em" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif">
     </a>
 </div>
-<h3 dir="auto"> 🖥️ Junior Dev</h3>
+<h3 align="center"  dir="auto"> 🖥️ Junior Dev</h3>
 
 I have worked in media as a journalist for a decade, with experience in video, image, text, and web tools, which led me to a career transition and a Systems Analysis and Dev degree. In tech, I'm looking forward to experiences in different areas, but aiming at the Gaming Industry.
 
@@ -29,7 +29,8 @@ I have worked in media as a journalist for a decade, with experience in video, i
 </div>
 
 ---
-
+<div align="center" dir="auto">
+    
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buenodeandrade&theme=midnight-purple)
@@ -74,6 +75,8 @@ I have worked in media as a journalist for a decade, with experience in video, i
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
 
 <!--
 **buenodeandrade/buenodeandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
