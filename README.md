@@ -40,6 +40,8 @@ I have worked in media as a journalist for a decade, experienced in video, image
 [![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://www.freecodecamp.org/certification/brau/responsive-web-design)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://www.freecodecamp.org/certification/brau/responsive-web-design)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://www.freecodecamp.org/certification/brau/responsive-web-design)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.dio.me/certificate/7D71D256)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://www.dio.me/certificate/7D71D256)
 [![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://freecodecamp.org/certification/brau/front-end-development-libraries)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://freecodecamp.org/certification/brau/front-end-development-libraries)
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://freecodecamp.org/certification/brau/front-end-development-libraries)
@@ -59,11 +61,6 @@ I have worked in media as a journalist for a decade, experienced in video, image
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### Recent Projects
-
-[![Repo Languages](https://github-readme-stats.vercel.app/api/pin/?username=buenodeandrade&repo=lang-badges&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/buenodeandrade/lang-badges/blob/main/README.md)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 <!--
 **buenodeandrade/buenodeandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
