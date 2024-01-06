@@ -4,25 +4,36 @@
         <img align="center" width="320em" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif">
     </a>
 <div>
-<br>
+<h3 dir="auto"> 🖥️ Junior Dev</h3>
 
 I have worked in media as a journalist for a decade, with experience in video, image, text, and web tools, which led me to a career transition and a Systems Analysis and Dev degree. In tech, I'm looking forward to experiences in different areas, but aiming at the Gaming Industry.
+
+<div align="center" dir="auto">
+<p dir="auto">
+    <a href="mailto:felipebuenodeandrade@gmail.com">
+        <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=9400D3&amp;color:FFF" alt="E-mail" style="max-width: 100%;">
+    </a>
+    <a href="https://www.linkedin.com/in/felipebuenodeandrade" rel="nofollow">
+        <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=9400D3&amp;color:FFF" alt="LinkedIn" style="max-width: 100%;">
+    </a>
+    <a href="https://www.dio.me/users/felipebuenodeandrade" rel="nofollow">
+        <img src="https://img.shields.io/badge/-DIO%20Profile-020114?style=for-the-badge&amp;logoColor=9400D3&amp;color:FFF" alt="DIO" style="max-width: 100%;">
+    </a>
+    <a href="https://www.freecodecamp.org/brau" rel="nofollow">
+        <img src="https://img.shields.io/badge/Freecodecamp-020114?&style=for-the-badge&logo=freecodecamp&logoColor=9400D3" alt="freeCodeCamp" style="max-width: 100%;">
+    </a>
+    <a href="https://codepen.io/br4u" rel="nofollow">
+        <img src="https://img.shields.io/badge/Codepen-020114?style=for-the-badge&logo=codepen&logoColor=9400D3" alt="CodePen" style="max-width: 100%;">
+    </a>
+</p>
+</div>
 
 ---
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buenodeandrade&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buenodeandrade&theme=blue-green)
-
-[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/brau)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/br4u)
-
-### Contact me
-
-[![DIO Profile](https://img.shields.io/badge/-My%20DIO%20Profile-30A3DC?style=for-the-badge)](https://www.dio.me/users/felipebuenodeandrade)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipebuenodeandrade@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebuenodeandrade/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buenodeandrade&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buenodeandrade&theme=midnight-purple)
 
 ### Languages
 <a href="https://github.com/buenodeandrade/lang-badges">
