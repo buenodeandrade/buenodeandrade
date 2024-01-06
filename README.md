@@ -3,7 +3,7 @@
         <h1>Felipe Bueno de Andrade</h1>
         <img align="center" width="320em" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif">
     </a>
-<div>
+</div>
 <h3 dir="auto"> 🖥️ Junior Dev</h3>
 
 I have worked in media as a journalist for a decade, with experience in video, image, text, and web tools, which led me to a career transition and a Systems Analysis and Dev degree. In tech, I'm looking forward to experiences in different areas, but aiming at the Gaming Industry.
